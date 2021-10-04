@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kozh. I'm a risk manager in investment finance and life insurance. Currently i'm highly interested in python. 
-I've made a few some Jupiter calculators for my professional routine and now i'm converting them to web applications. 
+I've made a few Jupiter notebooks for my professional routine and now i'm converting them to web applications. 
 
 - 👀 I’m interested in full stack development. I'm exploring Django, Vue, JS and using Python for core calculations. 
 
